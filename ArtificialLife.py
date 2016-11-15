@@ -500,4 +500,3 @@ game_loop()
 pygame.quit()
 quit()
 file.close()
-#output = 0,1,2,3    depending up,down,left,right
